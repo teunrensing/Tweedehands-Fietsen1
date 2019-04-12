@@ -7,7 +7,7 @@
   </head>
   <body>
 
-    <?php echo 'PHP is working!'; ?>
+    <?php echo 'PHP is working!'.; ?>
 
   </body>
 </html>
